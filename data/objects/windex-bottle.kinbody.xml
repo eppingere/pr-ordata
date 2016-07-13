@@ -1,0 +1,8 @@
+<KinBody name="windex-bottle">
+  <Body type="static" name="windex-bottle">
+    <Geom type="trimesh">
+      <Render>windex-scaled-binary.stl</Render>
+      <Data>windex-scaled-binary.stl</Data>
+    </Geom>
+  </Body>
+</KinBody>

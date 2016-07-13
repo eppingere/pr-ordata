@@ -1,0 +1,9 @@
+<KinBody name="sponge">
+  <Body type="static" name="sponge">
+    <Geom type="box">
+      <Translation>0 0 0.0</Translation>
+      <Extents>0.11 0.05 0.015</Extents>
+      <diffuseColor>0 0 1.0</diffuseColor>
+    </Geom>
+  </Body>
+</KinBody>
